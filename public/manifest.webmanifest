@@ -5,7 +5,7 @@
     "scope": "/",
     "start_url": "/",
     "name": "VS Time Machine Web",
-    "short_name": "VS",
+    "short_name": "VS Time Machine",
     "icons": [
         {
             "src": "/icon-192x192.png",
